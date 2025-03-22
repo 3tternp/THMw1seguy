@@ -14,7 +14,7 @@ Now execute the python script wise.py as in new Tab
 
 _python3 wise.py_
 
-**Flag 1 **
+**Flag 1**
 
 ![image](https://github.com/user-attachments/assets/d078ffcf-c94d-4a86-8559-076ba068ff91)
 
