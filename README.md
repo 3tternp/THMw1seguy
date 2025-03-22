@@ -20,5 +20,9 @@ _python3 wise.py_
 
 **Flag 2** 
 
+Let's insert the key which we have got from our script.
+
+We have got our 2nd FLAG as well.
+
 ![image](https://github.com/user-attachments/assets/5124b662-717c-496c-94c5-d53d6a2da3e5)
 
